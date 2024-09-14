@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nguyeenx Tieens Myx</h1>
 <h3 align="center">3rd year IT student</h3>
+
 <p align="center">
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!" />
@@ -19,8 +20,8 @@
       <li>📫 How to reach me <a href="mailto:mytom2401@gmail.com">mytom2401@gmail.com</a></li>
     </ul>
   </div>
- <div style="flex: 1; display: flex; justify-content: center;">
-    <img src="./errorSticker.png" alt="Your Image" style="max-width: 100%; height: 200px;">
+  <div style="flex: 1;">
+    <img src="./errorSticker.png" alt="Your Image" width="300px" />
   </div>
 </div>
 
