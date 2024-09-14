@@ -27,7 +27,7 @@
   </tr>
 </table>
 
-<h3>Connect with me:</h3>
+<h3>Connect with me:<a href="https://www.facebook.com/profile.php?id=100059974770043">Nguyễn Tiến Mỹ</a></h3>
 <p align="center">
   <img align="middle" alt="GIF" src="https://i.pinimg.com/originals/65/a5/ec/65a5ec60b90f6b8faede3390ad5ee065.gif" />
 </p>
