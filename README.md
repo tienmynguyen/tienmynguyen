@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nguyeenx Tieens Myx</h1>
 <h3 align="center">3rd year IT student</h3>
 <p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front+end+developer" /></a>
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!" /></a>
 </p>
 
 - 🔭 Study and work in **Da Nang**
