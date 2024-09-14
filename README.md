@@ -10,7 +10,7 @@
 <table>
   <tr>
     <td>
-      <h4>A little more about me</h4>
+      <h4>🦑 A little more about me:</h4>
       <ul>
         <li>🔭 Study and work in <strong>Da Nang</strong></li>
         <li>🌱 I’m currently learning ReactJS & NodeJS & Japanese</li>
