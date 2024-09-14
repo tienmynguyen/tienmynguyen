@@ -19,8 +19,8 @@
       <li>📫 How to reach me <a href="mailto:mytom2401@gmail.com">mytom2401@gmail.com</a></li>
     </ul>
   </div>
-  <div style="flex: 1; display: flex; justify-content: center;">
-    <img src="./errorSticker.png" alt="Your Image" style="max-width: 100%;">
+ <div style="flex: 1; display: flex; justify-content: center;">
+    <img src="./errorSticker.png" alt="Your Image" style="max-width: 100%; height: 200px;">
   </div>
 </div>
 
