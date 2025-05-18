@@ -15,7 +15,7 @@
         <li>🔭 Study and work in <strong>Da Nang</strong></li>
         <li>🌱 I’m currently learning ReactJS & NodeJS & Japanese</li>
         <li>💬 1st year college personal project: <a href="https://github.com/tienmynguyen/obookpromax.git">Obooks</a></li>
-        <li>💬 2nd year college personal project: <a href="https://github.com/tienmynguyen/HiveHub.git">HiveHub</a><a href="https://github.com/tienmynguyen/AIsignlang.git">TeGo AIsignlang</a></li>
+        <li>💬 2nd year college personal project: <a href="https://github.com/tienmynguyen/HiveHub.git">HiveHub</a>, <a href="https://github.com/tienmynguyen/AIsignlang.git">TeGo AIsignlang</a></li>
         <li>💬 other personal projects: <a href="https://mytomvn.itch.io/bang-bang-mi">my first unity game</a>, <a href="https://mytomvn.itch.io/kickback-escape">my latest unity game</a></li> 
         <li>👨‍💻 Life Hack: Use Spiritual Power to Code 🔮🪄</li>
         <li>⚡ Fun fact: I waste most of my time thinking about dinner</li>
