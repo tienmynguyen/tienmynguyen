@@ -16,8 +16,7 @@
         <li>🌱 I’m currently learning ReactJS & NodeJS & Japanese</li>
         <li>💬 1st year college personal project: <a href="https://github.com/tienmynguyen/obookpromax.git">Obooks</a></li>
         <li>💬 2nd year college personal project: <a href="https://github.com/tienmynguyen/HiveHub.git">HiveHub</a></li>
-        <li>💬 other personal projects: <a href="https://mytomvn.itch.io/bang-bang-mi">my first unity game</a></li> 
-         <li>💬 other personal projects:  <iframe frameborder="0" src="https://itch.io/embed/3567127?bg_color=d1d1d1" width="552" height="167"><a href="https://mytomvn.itch.io/kickback-escape">Kickback Escape Demo by MyTomVN</a></iframe></li> 
+        <li>💬 other personal projects: <a href="https://mytomvn.itch.io/bang-bang-mi">my first unity game</a>, <a href="https://mytomvn.itch.io/bang-bang-mi">my latest unity game project</a></li> 
         <li>👨‍💻 Life Hack: Use Spiritual Power to Code 🔮🪄</li>
         <li>⚡ Fun fact: I waste most of my time thinking about dinner</li>
         <li>📫 How to reach me: <a href="mailto:mytom2401@gmail.com">mytom2401@gmail.com</a></li>
