@@ -13,7 +13,7 @@
       <h4>🦑 A little more about me:</h4>
       <ul>
         <li>🔭 Study and work in <strong>Da Nang</strong></li>
-        <li>🌱 I’m currently learning ReactJS & NodeJS & Japanese</li>
+        <li>🌱 I’m currently learning Unity & C# & Japanese</li>
         <li>💬 1st year college personal project: <a href="https://github.com/tienmynguyen/obookpromax.git">Obooks</a></li>
         <li>💬 2nd year college personal project: <a href="https://github.com/tienmynguyen/HiveHub.git">HiveHub</a>, <a href="https://github.com/tienmynguyen/AIsignlang.git">TeGo AIsignlang</a></li>
         <li>💬 new personal projects: <a href="https://github.com/tienmynguyen/GunGameUnity.git">my first unity game</a>, <a href="https://github.com/tienmynguyen/Kickback-Escape.git">my latest unity game</a></li> 
