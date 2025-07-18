@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nguyeenx Tieens Myx</h1>
+<h1 align="center">Hi 👋, I'm Nguyen Tien My</h1>
 <h3 align="center">3rd year IT student</h3>
 
 <p align="center">
