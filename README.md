@@ -20,6 +20,7 @@
         <li>👨‍💻 Life Hack: Use Spiritual Power to Code 🔮🪄</li>
         <li>⚡ Fun fact: I waste most of my time thinking about dinner</li>
         <li>📫 How to reach me: <a href="mailto:mytom2401@gmail.com">mytom2401@gmail.com</a></li>
+        <li>📫 My <a href="https://tienmynguyen.github.io/">PORTFOLIO</a></li>
       </ul>
     </td>
     <td>
