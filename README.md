@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguyen Tien My</h1>
-<h3 align="center">3rd year IT student</h3>
+<h3 align="center">4rd year IT student</h3>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
